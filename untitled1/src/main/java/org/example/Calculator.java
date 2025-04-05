@@ -1,10 +1,10 @@
 package org.example;
 
-public class calculator {
-    public int add(int a, int b) {
+public class Calculator {
+    public int plus(int a, int b) {
         return a + b;
 }
-    public int subtract(int a, int b) {
+    public int minus(int a, int b) {
         return a - b;
     }
 
@@ -19,4 +19,6 @@ public class calculator {
         }
         return a / b;
     }
+
+
 }

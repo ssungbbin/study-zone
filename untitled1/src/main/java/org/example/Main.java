@@ -16,9 +16,9 @@ public class Main {
 
        Calculator calculator = new Calculator();
 
-       System.out.println("a와 b의 값은:"+calculataor.plus(a,b));
-       System.out.println("a와 b의 값은:"+calculataor .minus(a,b));
-       System.out.println("a와 b의 값은:"+calculataor .multiply(a,b));
-       System.out.println("a와 b의 값은:"+calculataor .divide(a,b));
+       System.out.println("a+b의 값은:" + calculator.plus(a,b));
+       System.out.println("a와-b의 값은:" + calculator.minus(a,b));
+       System.out.println("a와*b의 값은:" + calculator.multiply(a,b));
+       System.out.println("a와%b의 값은:" + calculator.divide(a,b));
     }
 }
