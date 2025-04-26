@@ -1,4 +1,4 @@
-package org.example;
+package org.example.p1;
 
 public class Calculator {
     public int plus(int a, int b) {
