@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javacode-main/chap11-generics-lecture-source/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

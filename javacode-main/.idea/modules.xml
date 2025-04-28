@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap02-operator-lecture-source/chap02-operator-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap02-operator-lecture-source/chap02-operator-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap04-control-flow-lecture-source/chap04-control-flow-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap05-array-lecture-source/chap05-array-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap05-array-lecture-source/chap05-array-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap06-class-and-object-lecture-source/chap06-class-and-object-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap07-object-array-lecture-source/chap07-object-array-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap07-object-array-lecture-source/chap07-object-array-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap08-inheritance-lecture-source/chap08-inheritance-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap08-inheritance-lecture-source/chap08-inheritance-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap09-polymorphism-lecture-source/chap09-polymorphism-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap09-polymorphism-lecture-source/chap09-polymorphism-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap10-api-lecture-source/chap10-api-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap10-api-lecture-source/chap10-api-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap11-generics-lecture-source/chap11-generics-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap11-generics-lecture-source/chap11-generics-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap12-collection-lecture-source/chap12-collection-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap12-collection-lecture-source/chap12-collection-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap13-exception-lecture-source/chap13-exception-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap13-exception-lecture-source/chap13-exception-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap14-io-lecture-source/chap14-io-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap14-io-lecture-source/chap14-io-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap15-enum-lecture-source/chap15-enum-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap15-enum-lecture-source/chap15-enum-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap16-lambda-lecture-source/chap16-lambda-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap16-lambda-lecture-source/chap16-lambda-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap17-stream-lecture-source/chap17-stream-lecture-source.iml" filepath="$PROJECT_DIR$/javacode-main/chap17-stream-lecture-source/chap17-stream-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacode-main/chap99-practice/chap99-practice.iml" filepath="$PROJECT_DIR$/javacode-main/chap99-practice/chap99-practice.iml" />
+    </modules>
+  </component>
+</project>
