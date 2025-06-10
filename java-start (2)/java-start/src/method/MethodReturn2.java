@@ -5,6 +5,7 @@ public class MethodReturn2 {
     public static void main(String[] args) {
         checkAge(10);
         checkAge(20);
+        checkAge(22);
     }
 
     public static void checkAge(int age) {

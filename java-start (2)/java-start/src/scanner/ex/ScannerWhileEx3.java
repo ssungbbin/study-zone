@@ -24,6 +24,7 @@ public class ScannerWhileEx3 {
 */
 
         while ((input = scanner.nextInt()) != -1) {
+
             sum += input;
             count++;
         }

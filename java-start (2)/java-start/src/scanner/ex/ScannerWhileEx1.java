@@ -20,6 +20,7 @@ public class ScannerWhileEx1 {
             int age = input.nextInt();
             input.nextLine();
 
+
             System.out.println("입력한 이름: " + name + ", 나이: " + age);
         }
     }
